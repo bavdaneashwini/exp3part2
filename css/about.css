@@ -1,0 +1,32 @@
+{
+    margin:0px;
+    box-sizing:border-box;
+}
+body{
+    background: rgb(228, 95, 18);
+}
+.container{
+    width:auto;
+    height:auto;
+}
+nav{
+    
+    text-align: center;
+    justify-content: space-between;
+    margin: 40px 40px 40px 40px;
+}
+nav ul li{
+    display: inline-block;
+    padding:0px 10px;
+}
+main{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: rgb(15, 163, 221);
+}
+main p{
+    color: black;
+}
+main h1{
+    text-decoration: underline;
+}

@@ -1,0 +1,48 @@
+{
+    margin:0px;
+    box-sizing:border-box;
+}
+body{
+    background: rgb(18, 228, 228);
+}
+.container{
+    width:auto;
+    height:auto;
+}
+nav{
+    
+    text-align: center;
+    
+    justify-content: space-between;
+    margin: 40px 40px 40px 40px;
+}
+nav ul li{
+    display: inline-block;
+    padding:0px 10px;
+}
+ main{ 
+     text-align:center ;
+     color: red;
+     margin-top: 30px;
+ }
+ 
+ 
+ main h5{
+     color: rosybrown;
+
+ }
+ main h3{
+     color: black;
+ }
+main p{
+    color: black;
+}
+
+main img{
+   
+    height: 150px;
+    width: 150px;
+   
+}
+
+/*about */
